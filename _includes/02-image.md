@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![The Dunetocat!!!](https://octodex.github.com/images/dunetocat.png)
